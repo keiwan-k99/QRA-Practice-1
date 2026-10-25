@@ -11,7 +11,6 @@ This repository contains Python scripts demonstrating the core data engineering 
 ## Datasets Used
 
 - **Project Risk & Earned-Value Dataset** (Mendeley Data)
-- **MSME-RiskX Credit Risk Dataset** (IEEE DataPort)
 
 ## Project Structure
 
