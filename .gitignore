@@ -1,0 +1,14 @@
+# Ignore raw and processed data (too large for GitHub)
+data/raw/
+data/processed/
+
+# Ignore Python virtual environments
+venv/
+.venv/
+env/
+
+# Ignore system files
+.DS_Store
+__pycache__/
+*.pyc
+.vscode/
